@@ -1,0 +1,12 @@
+76bead00b067ceb6f2f9f81501e40ae7 *DESCRIPTION
+42a3d75eb068becb9974020855f61dac *NAMESPACE
+2d7893259235f9032c371d9308e41dd8 *R/hsaft.R
+86de4cc63d704de7ffcae30dc5ff0176 *R/hsaftallcorr.R
+4e49c8ca145d2e77ec69e2efddf7e6aa *R/hsaftcovariatecorr.R
+04cac1f817ca65a836842f31d93f8dbf *R/hsaftgroupcorr.R
+ec2f7d6553002fccc40afda997d4b852 *README.md
+34bcced9d1c4b35330bb5afe10b205f3 *inst/CITATION
+1f35528c0944db86ae5110542bd5449e *man/hsaft.Rd
+b2bffc78a0274486b998891da9b39a35 *man/hsaftallcorr.Rd
+35d9eb37094bf4c5cf7b3b37e02da609 *man/hsaftcovariatecorr.Rd
+8dc0b5371dcdff891595d080c656ffd2 *man/hsaftgroupcorr.Rd
